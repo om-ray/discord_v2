@@ -3,7 +3,6 @@ import React from "react";
 function DM() {
   return (
     <div class="container">
-      <h2>V1 Made By: Red</h2>
 
       <div class="user-box">
         <input
